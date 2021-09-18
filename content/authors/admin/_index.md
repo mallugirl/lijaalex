@@ -3,7 +3,7 @@
 title: Lija Alex
 
 # Is this the primary user of the site?
-superuser: true
+<!-- superuser: true -->
 
 # Role/position/tagline
 role: Researcher - Deep Learning
